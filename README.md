@@ -3,12 +3,13 @@
 - 📫 How to reach me  : barisyurdakul.by@gmail.com
 - 📫 How to reach me  : brsyrdkl6@gmail.com
 
-- 🌱 I’m currently learning Java programming language
+- 🌱 I’m currently learning Spring boot
 
 - Lessons I've seen:
     - Computer Programming(C language)
     - Object Oriented Programming(C++)
-    - Computer Organization(MIPS Assembly, Verilog with Quartus) 
+    - Computer Organization(MIPS Assembly, Verilog with Quartus)
+    - Data Structures and Algorithm (Java)
 
 
 <h3 align="left">Connect with me:</h3>
