@@ -3,13 +3,13 @@
 - 📫 How to reach me  : barisyurdakul.by@gmail.com
 - 📫 How to reach me  : brsyrdkl6@gmail.com
 
-- 🌱 I’m currently learning Spring boot
+- BACK-END DEVELOPER - Proficient in microservice architecture
 
 - Lessons I've seen:
     - Computer Programming(C language)
     - Object Oriented Programming(C++)
-    - Computer Organization(MIPS Assembly, Verilog with Quartus)
     - Data Structures and Algorithm (Java)
+    - Turkcell Bootcamp Trainee in Geleceği Yazanlar (Spring Framework)
 
 
 <h3 align="left">Connect with me:</h3>
