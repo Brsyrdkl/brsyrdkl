@@ -6,19 +6,27 @@
 - BACK-END DEVELOPER - Proficient in microservice architecture
 
 - Lessons I've seen:
-    - Computer Programming(C language)
-    - Object Oriented Programming(C++)
+    - Computer Programming (C language)
+    - Object Oriented Programming (C++)
     - Data Structures and Algorithm (Java)
     - Turkcell Bootcamp Trainee in Geleceği Yazanlar (Spring Framework)
 
-![Barış's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brsyrdkl&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brsyrdkl&layout=compact&theme=radical)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Brsyrdkl&show_icons=true&theme=tokyonight" alt="Barış's GitHub stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brsyrdkl&layout=compact&theme=dark" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ### Featured Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Brsyrdkl&repo=rent-a-car-microservice&theme=radical)](https://github.com/Brsyrdkl/rent-a-car-microservice)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Brsyrdkl&repo=SYSTEM_PROGRAMMING-HW-S&theme=radical)](https://github.com/Brsyrdkl/SYSTEM_PROGRAMMING-HW-S)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Brsyrdkl&repo=e-commerce-microservice&theme=radical)](https://github.com/Brsyrdkl/e-commerce-microservice)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Brsyrdkl&repo=rent-a-car-project-monolith&theme=radical)](https://github.com/Brsyrdkl/turkcell-rent-a-car-project-monolith)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,4 +35,3 @@
 </p>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Brsyrdkl&color=blue)
-
