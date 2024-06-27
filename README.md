@@ -26,7 +26,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Brsyrdkl&repo=rent-a-car-microservice&theme=dark)](https://github.com/Brsyrdkl/rent-a-car-microservice)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Brsyrdkl&repo=SYSTEM_PROGRAMMING-HW-S&theme=dark)](https://github.com/Brsyrdkl/SYSTEM_PROGRAMMING-HW-S)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Brsyrdkl&repo=e-commerce-microservice&theme=dark)](https://github.com/Brsyrdkl/e-commerce-microservice)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Brsyrdkl&repo=rent-a-car-project-monolith&theme=dark)](https://github.com/Brsyrdkl/turkcell-rent-a-car-project-monolith)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
