@@ -9,6 +9,8 @@
     - Computer Programming (C language)
     - Object Oriented Programming (C++)
     - Data Structures and Algorithm (Java)
+    - System Programming
+    - Operating Systems
     - Turkcell Bootcamp Trainee in Geleceği Yazanlar (Spring Framework)
 
 <table>
