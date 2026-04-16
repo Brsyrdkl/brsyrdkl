@@ -2,7 +2,7 @@
 
 - 📫 How to reach me: barisyurdakul.by@gmail.com
 - 📫 How to reach me: brsyrdkl6@gmail.com
-- Know me better : [Resume](https://drive.google.com/file/d/1ZCnTXxxKpoK0sbbnfqzYitNww_SygGcL/view?usp=sharing)
+- Know me better : [Resume](https://drive.google.com/file/d/1djNTR7aweF3liG1UV56QJRZFru3n6dK-/view?usp=drive_link)
 - BACK-END DEVELOPER - Proficient in microservice architecture
 
 - Lessons I've seen:
