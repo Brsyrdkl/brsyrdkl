@@ -3,7 +3,7 @@
 # Hi there, I'm Barış 👋
 
 🎓 Computer Engineering — Gebze Technical University  
-💼 Software Specialist @ YCP Information Technologies  
+💼 Software Specialist @ Apifora Information Technologies  
 📍 Manisa, Turkey
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/barisyurdakul)
